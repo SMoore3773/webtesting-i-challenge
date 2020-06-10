@@ -7,6 +7,7 @@ module.exports = {
 
 function succeed(item) {
   return { ...item };
+  
 }
 
 function fail(item) {
